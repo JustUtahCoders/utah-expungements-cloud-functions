@@ -1,5 +1,5 @@
 # utah-expungements-cloud-functions
-Firebase cloud functions for utahexpungements.org
+Firebase cloud functions for utahexpungements.org. This is what sends us emails when people sign up on utahexpungements.org.
 
 ## Setup
 ```sh
